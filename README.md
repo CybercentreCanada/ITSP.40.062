@@ -4,4 +4,4 @@ This repository is a machine-readable complement to the guidance published at ht
 
 # ITSP.40.062 - Conseils sur la configuration sécurisée des protocoles réseau
 
-Ce dépôt est un complément lisible par machine aux orientations publiées sur le site https://cyber.gc.ca/fr/orientation/conseils-sur-la-configuration-securisee-des-protocoles-reseau-itsp40062.
+Ce dépôt est un complément lisible par machine aux conseils publiées sur le site https://cyber.gc.ca/fr/orientation/conseils-sur-la-configuration-securisee-des-protocoles-reseau-itsp40062.

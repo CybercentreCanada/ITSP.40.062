@@ -18,4 +18,4 @@ Le fichier `tls-guidance.json` énumère les configurations recommandées pour T
 - Algorithmes de signature
 - Extensions TLS
 
-Des indications supplémentaires figurent à la section 3 du document [ITSP.40.062](https://cyber.gc.ca/fr/orientation/conseils-sur-la-configuration-securisee-des-protocoles-reseau-itsp40062).
+Des conseils supplémentaires figurent à la section 3 du document [ITSP.40.062](https://cyber.gc.ca/fr/orientation/conseils-sur-la-configuration-securisee-des-protocoles-reseau-itsp40062).
